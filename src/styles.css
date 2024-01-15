@@ -25,13 +25,13 @@ h1 {
 .contributor-list {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-around;
+	justify-content: space-evenly;
 }
 
 .contributor-card {
 	border: 1px solid #ddd;
 	border-radius: 8px;
-	margin: 5px;
+	margin: 10px;
 	padding: 5px;
 	display: flex;
 	flex-direction: column;
