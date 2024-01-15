@@ -1,3 +1,3 @@
 Information Management Group
 
-Angel Sharma -penguin invaders
+Angel Sharma
