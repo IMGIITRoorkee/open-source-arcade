@@ -1,3 +1,3 @@
 Information Management Group
-- Noble Mittal
+Noble Mittal
 Jasleen Kaur
