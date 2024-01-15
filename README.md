@@ -59,7 +59,7 @@ git checkout -d add-inforamtion-management-group
 
 Now open `Contributors.md` file in a text editor, add your name to it. Now, save the file.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://github.com/IMGIITRoorkee/open-source-arcade/assets/77184239/76183527-cf27-4e1b-b4c3-56237852db6c" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -102,12 +102,12 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://github.com/IMGIITRoorkee/open-source-arcade/assets/77184239/04c5d571-7f06-4df3-9808-fc82f8ad566f" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://github.com/IMGIITRoorkee/open-source-arcade/assets/77184239/d6721f53-1bb1-4eb5-aa37-eb82ea217a8f" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+Soon we'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
