@@ -1,4 +1,4 @@
-fetch("../Contributors.md")
+fetch("/Contributors.md")
 	.then((response) => response.text())
 	.then((data) => {
 		// Parse the data and create contributor cards
