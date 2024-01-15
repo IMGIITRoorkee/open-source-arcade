@@ -1,0 +1,61 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 20px;
+	background: #141414;
+}
+
+h1 {
+	text-align: center;
+	color: #333;
+}
+
+.text-center{
+	color: #fff;
+}
+
+.form-control{
+	margin: auto;
+	width: 80%;
+}
+
+.content {
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	background-color: #f9f9f9;
+}
+
+.search-bar {
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.contributor-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.contributor-card {
+	/* border: 1px solid #ddd; */
+	border-radius: 8px;
+	margin: 10px;
+	padding: 16px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	background:#222222;
+	color: #f9f9f9;
+	box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+	
+}
+
+.contributor-avatar {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	margin-bottom: 10px;
+}
