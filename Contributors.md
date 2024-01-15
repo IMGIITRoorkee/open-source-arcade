@@ -5,6 +5,7 @@ Akhil Punia
 Noble Mittal
 Bhoomi Bonal
 Somil Jain
+Anshika Arora
 Yash Hirani
 Divyansh Agarwal
 Jasleen Kaur
