@@ -6,5 +6,6 @@ Somil Jain
 Divyansh Agarwal
 Jasleen Kaur
 Divij Rawal
+Utsah
 Pranav Konidena
 
