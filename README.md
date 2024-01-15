@@ -57,7 +57,7 @@ git checkout -d add-inforamtion-management-group
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Now, save the file.
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://github.com/IMGIITRoorkee/open-source-arcade/assets/77184239/76183527-cf27-4e1b-b4c3-56237852db6c" alt="git status" />
 
