@@ -1,0 +1,45 @@
+<style>
+    body{
+        margin:0;
+        display: flex;
+        justify-content: center;
+        background-color: black;
+        align-items: center;
+    }
+</style>
+<div id="canvas" style="position: relative;display:none">
+    <p style="position:absolute ; z-index:10; color:white;left:15px ; margin:0;top:15px; font-family:sans-serif"><span>Score:</span><span id="scoreEl">0</span></p>
+    <audio id="hitSound" src="explosion.wav"></audio>
+    <audio id="fireSound" src="shoot.wav"></audio>
+    <audio id="killSound" src="invaderkilled.wav"></audio>
+
+
+<canvas >
+</canvas>
+</div>
+
+<div id="start" style="display:block">
+    <div id="head">Penguin Invaders</div>
+    <img src="unnamed-fotor-bg-remover-20230525172239.png" width="200" height="200">
+    <br>
+    <div id="instructions">
+      <h3> Instructions:</h3> 
+        <ul>
+            <li>Hold down the key 'a' to move the spaceship to the left </li><br>
+            <li>Hold down the key 'd' to move the spaceship to the right </li><br>
+            <li>Hold down the spacebar to shoot the penguin invaders </li><br>
+            <li>Avoid the enemy missiles and emerge as the hero!!</li>
+
+            
+        </ul>
+    </div>
+<a href="#" onclick="startGame()">Start Playing</a></div>
+<div id="over" style="display: none;">
+    <h1>Game Over</h1>
+    <div id="end"><span>Your Score Is:</span><span id="hehe"></span></div>
+    <br>
+    <button id="playAgain" onclick="startGame()">Play Again</button>
+  </div>
+  
+<script src="./index.js"></script>
+<link rel="stylesheet" href="game.css"/>
