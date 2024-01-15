@@ -1,2 +1,2 @@
-Information Management Group
+Information Management Group <br/>
 Angel Sharma
