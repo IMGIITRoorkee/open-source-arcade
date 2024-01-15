@@ -1,11 +1,21 @@
 body {
 	font-family: Arial, sans-serif;
 	margin: 20px;
+	background: #141414;
 }
 
 h1 {
 	text-align: center;
 	color: #333;
+}
+
+.text-center{
+	color: #fff;
+}
+
+.form-control{
+	margin: auto;
+	width: 80%;
 }
 
 .content {
@@ -25,18 +35,22 @@ h1 {
 .contributor-list {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-around;
+	justify-content: space-evenly;
 }
 
 .contributor-card {
-	border: 1px solid #ddd;
+	/* border: 1px solid #ddd; */
 	border-radius: 8px;
-	margin: 5px;
-	padding: 5px;
+	margin: 10px;
+	padding: 16px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	text-align: center;
+	background:#222222;
+	color: #f9f9f9;
+	box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+	
 }
 
 .contributor-avatar {
