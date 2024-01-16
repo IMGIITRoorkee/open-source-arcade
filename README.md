@@ -52,7 +52,7 @@ git checkout -b your-new-branch-name
 For example:
 
 ```bash
-git checkout -d add-inforamtion-management-group
+git checkout -b add-inforamtion-management-group
 ```
 
 ## Make necessary changes and commit those changes
