@@ -8,6 +8,7 @@ Somil Jain
 Yash Hirani
 Divyansh Agarwal
 Sanjeet Manna
+Hardik Narang
 Jasleen Kaur
 Divij Rawal
 Utsah
