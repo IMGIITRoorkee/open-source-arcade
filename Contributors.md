@@ -7,6 +7,7 @@ Ujjwal Arya
 Somil Jain
 Nikhil Nagar
 Anshika Arora
+Tanmay Sharma
 Yash Hirani
 Aditya Ranjan
 Divyansh Agarwal
