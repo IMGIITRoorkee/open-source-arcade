@@ -9,6 +9,7 @@ Anshika Arora
 Yash Hirani
 Divyansh Agarwal
 Sanjeet Manna
+Alok Kumar Pandey
 Hardik Narang
 Jasleen Kaur
 Divij Rawal
