@@ -13,5 +13,6 @@ Hardik Narang
 Jasleen Kaur
 Divij Rawal
 Utsah
+Krishna Awasthi
 Pranav Konidena
 Saurabh Rana
