@@ -1,5 +1,6 @@
 Information Management Group
 Angel Sharma
+Cherish Puniani
 Akhil Punia
 Noble Mittal
 Bhoomi Bonal
@@ -15,4 +16,3 @@ Divij Rawal
 Utsah
 Pranav Konidena
 Saurabh Rana
-Cherish Puniani
