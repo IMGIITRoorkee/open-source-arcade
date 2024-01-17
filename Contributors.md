@@ -5,6 +5,7 @@ Noble Mittal
 Bhoomi Bonal
 Somil Jain
 Nikhil Nagar
+Bhuro
 Anshika Arora
 Yash Hirani
 Divyansh Agarwal
