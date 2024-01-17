@@ -14,4 +14,5 @@ Jasleen Kaur
 Divij Rawal
 Utsah
 Pranav Konidena
+Harshit Singh
 Saurabh Rana
