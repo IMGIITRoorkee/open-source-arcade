@@ -22,7 +22,7 @@ Anshika Arora
 Dhairya Singhal
 Arnav Gupta
 
-
+Aditya Karwa
 Dhruv Pankaj
 
 Tanmay Sharma
