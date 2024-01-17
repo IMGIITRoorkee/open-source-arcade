@@ -23,6 +23,7 @@ Yash Hirani
 Aditya Ranjan
 Shantanu Singh
 Divyansh Agarwal
+Devansh Pandey
 Sanjeet Manna
 Hardik Narang
 Jasleen Kaur
