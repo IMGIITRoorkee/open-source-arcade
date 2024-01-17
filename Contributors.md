@@ -7,12 +7,13 @@ Somil Jain
 Nikhil Nagar
 Anshika Arora
 Yash Hirani
-Adesh Pal
 Divyansh Agarwal
 Sanjeet Manna
 Hardik Narang
 Jasleen Kaur
 Divij Rawal
 Utsah
+Adesh Pal
 Pranav Konidena
 Saurabh Rana
+
