@@ -4,6 +4,7 @@ Akhil Punia
 Noble Mittal
 Bhoomi Bonal
 Somil Jain
+Dhruv Saxena
 Nikhil Nagar
 Anshika Arora
 Yash Hirani
