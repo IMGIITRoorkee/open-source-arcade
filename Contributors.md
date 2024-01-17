@@ -11,6 +11,7 @@ Divyansh Agarwal
 Sanjeet Manna
 Hardik Narang
 Jasleen Kaur
+Rishit Saini
 Divij Rawal
 Utsah
 Pranav Konidena
