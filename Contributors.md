@@ -8,6 +8,7 @@ Somil Jain
 Nikhil Nagar
 Anshika Arora
 Yash Hirani
+Aditya Ranjan
 Divyansh Agarwal
 Sanjeet Manna
 Hardik Narang
