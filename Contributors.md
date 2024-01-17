@@ -32,6 +32,7 @@ Devansh Pandey
 Sanjeet Manna
 
 Hardik Narang
+Vaishnavi Kolgane
 Jasleen Kaur
 Vatsal Agarwal
 Divij Rawal
