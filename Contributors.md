@@ -3,6 +3,7 @@ Angel Sharma
 Cherish Puniani
 Akhil Punia
 Noble Mittal
+Suyash Rahul
 Bhoomi Bonal
 Ujjwal Arya
 Somil Jain
