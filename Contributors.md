@@ -1,5 +1,6 @@
 Information Management Group
 Angel Sharma
+Cherish Puniani
 Akhil Punia
 Jewel Jisson
 Noble Mittal
