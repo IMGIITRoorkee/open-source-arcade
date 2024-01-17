@@ -33,8 +33,8 @@ Divij Rawal
 Utsah
 Krishna Awasthi
 Pranav Konidena
+Harshit Singh
 Prachi Bhagat
 Archit Modi
 Lakshita
 Saurabh Rana
-
