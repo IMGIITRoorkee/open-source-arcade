@@ -1,6 +1,7 @@
 Information Management Group
 Angel Sharma
 Akhil Punia
+Archit Modi
 Noble Mittal
 Bhoomi Bonal
 Somil Jain
