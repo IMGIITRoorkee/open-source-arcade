@@ -25,6 +25,7 @@ Shantanu Singh
 Divyansh Agarwal
 Devansh Pandey
 Sanjeet Manna
+Alok Kumar Pandey
 Hardik Narang
 Jasleen Kaur
 Vatsal Agarwal
