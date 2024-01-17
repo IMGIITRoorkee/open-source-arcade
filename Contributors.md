@@ -7,6 +7,7 @@ Somil Jain
 Nikhil Nagar
 Anshika Arora
 Yash Hirani
+Arnav Kirti
 Divyansh Agarwal
 Sanjeet Manna
 Hardik Narang
@@ -15,4 +16,3 @@ Divij Rawal
 Utsah
 Pranav Konidena
 Saurabh Rana
-Arnav Kirti
