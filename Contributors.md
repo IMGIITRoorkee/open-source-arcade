@@ -18,6 +18,7 @@ Tanmay Sharma
 
 Yash Hirani
 Aditya Ranjan
+Shantanu Singh
 Divyansh Agarwal
 Sanjeet Manna
 Hardik Narang
