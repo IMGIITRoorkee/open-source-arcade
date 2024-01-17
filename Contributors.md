@@ -3,6 +3,7 @@ Angel Sharma
 Akhil Punia
 Noble Mittal
 Bhoomi Bonal
+Mohit Verma
 Somil Jain
 Nikhil Nagar
 Anshika Arora
