@@ -1,6 +1,7 @@
 Information Management Group
 Angel Sharma
 Akhil Punia
+Jewel Jisson
 Noble Mittal
 Bhoomi Bonal
 Ujjwal Arya
