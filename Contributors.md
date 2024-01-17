@@ -6,6 +6,7 @@ Bhoomi Bonal
 Somil Jain
 Nikhil Nagar
 Anshika Arora
+Dhruv Pankaj
 Yash Hirani
 Divyansh Agarwal
 Sanjeet Manna
