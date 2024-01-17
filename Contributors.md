@@ -2,7 +2,6 @@ Information Management Group
 Angel Sharma
 Cherish Puniani
 Akhil Punia
-Jewel Jisson
 Noble Mittal
 Bhoomi Bonal
 Ujjwal Arya
@@ -29,6 +28,7 @@ Utsah
 Krishna Awasthi
 Pranav Konidena
 Prachi Bhagat
+Archit Modi
 Lakshita
 Saurabh Rana
 
