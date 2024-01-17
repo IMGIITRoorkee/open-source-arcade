@@ -1,5 +1,6 @@
 Information Management Group
 Angel Sharma
+Pradyuman Singh Shekhawat 
 Akhil Punia
 Noble Mittal
 Bhoomi Bonal
