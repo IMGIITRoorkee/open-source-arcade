@@ -3,6 +3,7 @@ Angel Sharma
 Akhil Punia
 Noble Mittal
 Bhoomi Bonal
+Manav Punjabi
 Somil Jain
 Nikhil Nagar
 Anshika Arora
@@ -15,4 +16,4 @@ Divij Rawal
 Utsah
 Pranav Konidena
 Saurabh Rana
-Manav Punjabi
+
