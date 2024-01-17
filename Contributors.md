@@ -8,6 +8,7 @@ Nikhil Nagar
 Anshika Arora
 Yash Hirani
 Divyansh Agarwal
+Manisha
 Sanjeet Manna
 Hardik Narang
 Jasleen Kaur
