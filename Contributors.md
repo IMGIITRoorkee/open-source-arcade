@@ -26,7 +26,7 @@ Aditya Karwa
 Dhruv Pankaj
 
 Tanmay Sharma
-
+Shashank Shekhar
 Yash Hirani
 Aditya Ranjan
 Shantanu Singh
