@@ -8,6 +8,7 @@ Noble Mittal
 Suyash Rahul
 Bhoomi Bonal
 Ujjwal Arya
+Rayyan Ahmed
 Somil Jain
 Dhruv Saxena
 Nikhil Nagar
