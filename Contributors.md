@@ -24,7 +24,7 @@ Arnav Gupta
 
 Aditya Karwa
 Dhruv Pankaj
-
+Abhimanyu Jain
 Tanmay Sharma
 Shashank Shekhar
 Yash Hirani
