@@ -7,6 +7,7 @@ Akhil Punia
 Noble Mittal
 Suyash Rahul
 Bhoomi Bonal
+Bhavy Ratnman 
 Ujjwal Arya
 Somil Jain
 Dhruv Saxena
