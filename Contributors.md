@@ -34,7 +34,7 @@ Divyansh Agarwal
 kavya rajput
 Devansh Pandey
 Sanjeet Manna
-
+Manya
 Hardik Narang
 Vaishnavi Kolgane
 Jasleen Kaur
