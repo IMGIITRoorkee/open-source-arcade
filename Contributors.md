@@ -7,6 +7,8 @@ Akhil Punia
 Noble Mittal
 Suyash Rahul
 Bhoomi Bonal
+Bhavy Ratnman 
+Akshat Yadav
 Ujjwal Arya
 Somil Jain
 Dhruv Saxena
@@ -14,6 +16,7 @@ Nikhil Nagar
 LU_1F3R
 Bhuro
 
+Anjan Singla
 Mohit Agarwal
 Sourav
 
@@ -34,7 +37,7 @@ Divyansh Agarwal
 kavya rajput
 Devansh Pandey
 Sanjeet Manna
-
+Rohit mahawar
 Hardik Narang
 Vaishnavi Kolgane
 Jasleen Kaur
@@ -51,107 +54,8 @@ Lakshita
 Saurabh Rana
 Siddhant Jain
 Vamshi Poojari
-                 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Tanay Paliwal
+Omprakash Saran
 
 SIDDHANT JAIN
 VAMSHI POOJARI
