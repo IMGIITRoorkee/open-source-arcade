@@ -7,6 +7,8 @@ Akhil Punia
 Noble Mittal
 Suyash Rahul
 Bhoomi Bonal
+Bhavy Ratnman 
+Akshat Yadav
 Ujjwal Arya
 Somil Jain
 Dhruv Saxena
@@ -14,6 +16,8 @@ Nikhil Nagar
 LU_1F3R
 Bhuro
 Pushkar
+
+Anjan Singla
 Mohit Agarwal
 Sourav
 
@@ -34,7 +38,7 @@ Divyansh Agarwal
 kavya rajput
 Devansh Pandey
 Sanjeet Manna
-
+Rohit mahawar
 Hardik Narang
 Vaishnavi Kolgane
 Jasleen Kaur
@@ -49,4 +53,6 @@ Prachi Bhagat
 Archit Modi
 Lakshita
 Saurabh Rana
+Tanay Paliwal
+Omprakash Saran
 
