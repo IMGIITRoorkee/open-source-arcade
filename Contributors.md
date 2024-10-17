@@ -35,6 +35,7 @@ Aditya Ranjan
 Shantanu Singh
 Divyansh Agarwal
 kavya rajput
+Vaibhav Kumar
 Devansh Pandey
 Sanjeet Manna
 Rohit mahawar
