@@ -14,6 +14,7 @@ Nikhil Nagar
 LU_1F3R
 Bhuro
 
+Anjan Singla
 Mohit Agarwal
 Sourav
 
@@ -49,4 +50,3 @@ Prachi Bhagat
 Archit Modi
 Lakshita
 Saurabh Rana
-
