@@ -30,6 +30,7 @@ Tanmay Sharma
 Shashank Shekhar
 Yash Hirani
 Aditya Ranjan
+Manish pal
 Shantanu Singh
 Divyansh Agarwal
 kavya rajput
