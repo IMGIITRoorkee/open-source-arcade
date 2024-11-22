@@ -4,6 +4,7 @@ Angel Sharma
 Cherish Puniani
 <br>
 Akhil Punia
+Vivek Kabra
 Noble Mittal
 Suyash Rahul
 Bhoomi Bonal
