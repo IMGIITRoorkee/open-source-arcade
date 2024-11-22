@@ -1,4 +1,4 @@
-Information Management Group
+cInformation Management Group
 Angel Sharma
 <br>
 Cherish Puniani
@@ -21,7 +21,7 @@ Mohit Agarwal
 Sourav
 
 Anshika Arora
-
+Anshul
 Dhairya Singhal
 Arnav Gupta
 
@@ -31,10 +31,12 @@ Dhruv Pankaj
 Tanmay Sharma
 Shashank Shekhar
 Yash Hirani
+
 Aditya Ranjan
 Shantanu Singh
 Divyansh Agarwal
 kavya rajput
+
 Devansh Pandey
 Sanjeet Manna
 Rohit mahawar
