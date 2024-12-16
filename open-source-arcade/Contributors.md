@@ -42,6 +42,7 @@ Vaishnavi Kolgane
 Jasleen Kaur
 Vatsal Agarwal
 Basde Papa
+Manjot Singh
 Divij Rawal
 Utsah
 Krishna Awasthi
@@ -51,5 +52,5 @@ Prachi Bhagat
 Archit Modi
 Lakshita
 Saurabh Rana
-Manjot Singh
+
 
