@@ -51,4 +51,5 @@ Prachi Bhagat
 Archit Modi
 Lakshita
 Saurabh Rana
+Manjot Singh
 
