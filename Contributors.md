@@ -29,7 +29,7 @@ Arnav Gupta
 
 Aditya Karwa
 Dhruv Pankaj
-
+Kush Gupta
 Tanmay Sharma
 Shashank Shekhar
 Yash Hirani
