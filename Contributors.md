@@ -52,6 +52,7 @@ Krishna Awasthi
 Pranav Konidena
 Abhay Pratap Choudhary
 Prachi Bhagat
+Naysha Gupta
 Archit Modi
 Lakshita
 Saurabh Rana
