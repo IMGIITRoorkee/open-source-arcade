@@ -42,6 +42,7 @@ Vaishnavi Kolgane
 Jasleen Kaur
 Vatsal Agarwal
 Basde Papa
+Gajraj Singh
 Manjot Singh
 Divij Rawal
 Utsah
