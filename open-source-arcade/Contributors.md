@@ -24,6 +24,7 @@ Anshika Arora
 Dhairya Singhal
 Arnav Gupta
 
+Guni Mishra
 Aditya Karwa
 Dhruv Pankaj
 
